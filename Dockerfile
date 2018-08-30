@@ -1,3 +1,3 @@
-From node:8
+From node:alpine
 
 RUN npm install -g quasar-cli @vue/cli 
